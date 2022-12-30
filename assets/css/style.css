@@ -60,6 +60,7 @@ form {
 
 select {
     width: 60%;
+    cursor: pointer;
 }
 
 .principal {
@@ -187,6 +188,7 @@ footer p {
 .fa-bars {
     padding: 5px;
     margin: 2px;
+    cursor: pointer;
 }
 
 .cat {
@@ -236,6 +238,7 @@ button {
     margin-top: 8px;
     transition: .5s;
     color: white;
+    cursor: pointer;
 }
 
 button:hover {
