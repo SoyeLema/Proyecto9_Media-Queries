@@ -32,6 +32,10 @@ img {
     width: 100%;
 }
 
+.title {
+    cursor: pointer;
+}
+
 .search {
     grid-area: search;
     background-color: rgb(119, 118, 118);
@@ -272,6 +276,10 @@ button:hover {
         top: 0%;
     }
 
+    .title {
+        cursor: pointer;
+    }
+
     .bar-menu {
         visibility: hidden;
     }
@@ -300,7 +308,7 @@ button:hover {
     }
 
     .principal {
-        margin-top: 80px;
+        margin-top: 70px;
         margin-bottom: 10px;
     }
 
@@ -390,6 +398,7 @@ button:hover {
     .title {
         margin-top: 10px;
         margin-left: 10px;
+        cursor: pointer;
     }
 
     .bar-menu {
@@ -493,6 +502,7 @@ button:hover {
     .title {
         margin-top: 10px;
         margin-left: 20px;
+        cursor: pointer;
     }
 
     .bar-menu {
